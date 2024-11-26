@@ -12,7 +12,7 @@ import requests
 import datetime
 
 # Подключаю бота
-TOKEN = '1925264607:AAFPOQu3Qqectl5Mn0Ac0BlQzm9z5215F9I'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 # Подключаю время
